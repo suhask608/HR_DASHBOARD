@@ -1,1 +1,1 @@
-Finding the details of employees from a company using insights - Power BI, Excel(tools used)
+Finding the details of employees from a company using Insights - Power BI, Excel(tools used)
