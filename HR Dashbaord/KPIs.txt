@@ -1,0 +1,34 @@
+HR Dashboard: [Excel + Power BI]
+
+1) Total Employees in a Company?
+-> 1470
+
+2)  Total no of males in a company with percentage?
+-> 882 | 60%
+
+3) Total no of females in a company with percentage?
+-> 588 | 40%
+
+4) Percentage of peoples which are due for promotion & not due?
+-> Due for promotion - 4.9%(not promoted since >=10 years in the company), Not Due - 95.1%
+
+5) Percentage of peoples which are In service & Layed-off?
+-> In Service - 92%, Layed-off - 8%(Service in the company since >=18 years)
+
+6) Distance from home to a company?
+-> Distance is >=20km - too far, >=10 - bit close, else very close.
+
+7) Which department has highest no of employees who were not promoted as well as got layed-off?
+-> Research & Development has highest no of employees who were not promoted & got layed off, so for these peoples company should provide more servarance benefits.
+
+8) Percentage of employees doing work overtime or not?
+-> Yes - 28.3%, No - 71.7%
+
+9)Performance of employees in a company?
+-> High - 84.63%(>3 rating), Low - 15.37%(<=3 rating)
+
+
+
+
+
+ 
